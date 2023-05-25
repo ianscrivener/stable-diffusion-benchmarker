@@ -1,3 +1,13 @@
+## Stable Diffusion 1.x Benchmarker
+
+```
+
+
+```
+
+
+
+---
 ## Stable Diffusion
 
 *[Stable Diffusion](https://github.com/compvis/stable-diffusion) builds upon our previous work with the [CompVis group](https://ommer-lab.com/):*
